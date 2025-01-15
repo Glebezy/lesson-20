@@ -50,7 +50,7 @@
 <!-- Appium -->
 
 
-### <img width="3%" title="Appium" src="images/logo/appium"> Скринкаст прохождения тестов используя Appium
+### <img width="3%" title="Appium" src="images/logo/appium.png"> Скринкаст прохождения тестов используя Appium
 
 
 
