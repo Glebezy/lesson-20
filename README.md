@@ -54,6 +54,10 @@
 
 
 
+https://github.com/user-attachments/assets/1e6363b8-e620-4bc0-9cca-d7f21210c200
+
+
+
 <!-- Telegram -->
 
 ### <img width="3%" title="Telegram" src="images/logo/tg.png"> Интеграция с Telegram
