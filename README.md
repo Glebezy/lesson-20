@@ -47,14 +47,15 @@
 ##### Во вкладке Behaviors находятся собранные тест кейсы, у которых описаны шаги и приложены аттачи о прохождении теста
 ![This is an image](images/screenshots/allure_suites.png)
 
-<!-- Browserstack -->
+<!-- Appium -->
 
 
-### <img width="3%" title="Browserstack" src="images/logo/browserstack.png"> Пример прохождения теста в BrowserStack
+### <img width="3%" title="Appium" src="images/logo/appium"> Скринкаст прохождения тестов используя Appium
 
 
 
-https://github.com/user-attachments/assets/1e6363b8-e620-4bc0-9cca-d7f21210c200
+https://github.com/user-attachments/assets/bbef3612-7e24-47f2-8c88-b57f35cd5791
+
 
 
 
